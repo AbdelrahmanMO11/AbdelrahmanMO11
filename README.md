@@ -1,5 +1,5 @@
+![image](https://github.com/AbdelrahmanMO11/AbdelrahmanMO11/assets/61950036/311d65e1-e497-4407-951f-3b0cd067ec86)
 
-<img align="center" alt="Coding" width="500" src="https://analyticsindiamag.com/wp-content/uploads/2017/06/32005410.jpg">
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">AI Enthusiast | Machine Learning Engineer</h3>
 
